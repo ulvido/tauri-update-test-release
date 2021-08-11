@@ -1,11 +1,11 @@
 {
-    "name":"v0.0.2",
+    "name":"v0.0.4",
     "notes":"Tauri Update Test",
     "pub_date":"2021-08-11T23:25:57Z",
     "platforms": {
         "deb": {
             "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEIwRjk5MTZCMzMxNzkxRjAKUldUd2tSY3phNUg1c0tSakNwczZHUmF2ZFk4QjNqdGFmU0pMeWZucUhGYUZXVG5rWHRZRU9zQjUK%",
-            "url":"https://github.com/ulvido/tauri-update-test-release/releases/download/v0.0.2/tauri-update-test_0.0.2_amd64.tar.gz"
+            "url":"https://github.com/ulvido/tauri-update-test-release/releases/download/v0.0.4/tauri-update-test_0.0.4_amd64.tar.gz"
         }
     }
 }
