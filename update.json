@@ -3,7 +3,7 @@
     "notes":"Tauri Update Test3",
     "pub_date":"2021-08-11T23:25:57Z",
     "platforms": {
-        "deb": {
+        "linux": {
             "url":"https://github.com/ulvido/tauri-update-test-release/releases/download/v0.0.6/tauri-update-test_0.0.6_amd64.deb"
         }
     }
