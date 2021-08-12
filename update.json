@@ -1,10 +1,10 @@
 {
-    "name":"v0.0.8",
+    "name":"v0.0.13",
     "notes":"Tauri Update Test",
-    "pub_date":"2021-08-12T21:25:57Z",
+    "pub_date":"2021-08-12T23:00:57Z",
     "platforms": {
         "linux": {
-            "url":"https://github.com/ulvido/tauri-update-test-release/releases/download/v0.0.8/tauri-update-test_0.0.8_amd64.AppImage.tar.gz"
+            "url":"https://github.com/ulvido/tauri-update-test-release/releases/download/v0.0.13/tauri-update-test_0.0.13_amd64.AppImage.tar.gz"
         }
     }
 }
